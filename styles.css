@@ -5,7 +5,7 @@
 table tr td:first-child img{
 	width:200px;
 }
-table tr td:nth-child(2) img{
+table tr td:nth-child(2){
 	width:600px;
 }
 table tr td:last-child img{
